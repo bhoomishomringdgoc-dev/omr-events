@@ -1,0 +1,21 @@
+{
+  "overview": "A full event management company website for an OMR (Chennai) based company, featuring tiered event packages with detailed inclusions and pricing — covering weddings, corporate events, birthday parties, and more.",
+  "features": [
+    "Tiered event packages with detailed inclusions and pricing",
+    "Wedding packages (Tamil/Hindu/Christian) with INR pricing",
+    "Corporate event and birthday/anniversary packages",
+    "Responsive package cards with feature lists and Get Quote CTAs",
+    "Hero banner with company tagline",
+    "Navigation header and footer with contact info"
+  ],
+  "category": "business",
+  "tags": [
+    "event-management",
+    "wedding-packages",
+    "chennai",
+    "omr",
+    "corporate-events",
+    "packages-pricing"
+  ],
+  "last_updated": "2026-04-15T16:21:44.589Z"
+}
